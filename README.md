@@ -12,5 +12,5 @@
 
 |  Number | Title  | Solution  |
 |---|---|---|
-|   1. |  [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python]()  |
+|   1. |  [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/1.Two%20Sum.py)  |
 |   2. | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python]()  |
