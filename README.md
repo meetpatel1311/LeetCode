@@ -13,7 +13,7 @@
 |  Number | Title  | Solution  |
 |---|---|---|
 |   1. |  [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/1.Two%20Sum.py)  |
-|   2. | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python]()  |
-|   3. | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [Python]()  |
-|   4. | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  | [Python]()  |
-|   5. | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [Python]()  |
+|   2. | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/2.%20Add%20Two%20Numbers.py)  |
+|   3. | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)  |
+|   4. | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/4.%20Median%20of%20Two%20Sorted%20Arrays.py)  |
+|   5. | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/5.%20Longest%20Palindromic%20Substring.py)  |
