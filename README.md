@@ -17,5 +17,5 @@
 |   3. | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)  |
 |   4. | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/4.%20Median%20of%20Two%20Sorted%20Arrays.py)  |
 |   5. | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/5.%20Longest%20Palindromic%20Substring.py)  |
-|   6. | [ ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Python]()  |
-|   7.    |[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)    | [Python]()|
+|   6. | [ ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/6.%20ZigZag%20Conversion.py)  |
+|   7.    |[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)    | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/7.%20Reverse%20Integer.py)|
