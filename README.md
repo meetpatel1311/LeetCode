@@ -18,4 +18,4 @@
 |   4. | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/4.%20Median%20of%20Two%20Sorted%20Arrays.py)  |
 |   5. | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/5.%20Longest%20Palindromic%20Substring.py)  |
 |   6. | [ ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Python]()  |
-|       |    | |
+|   7.    |[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)    | [Python]()|
