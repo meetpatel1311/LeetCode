@@ -19,6 +19,6 @@
 |   5. | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/5.%20Longest%20Palindromic%20Substring.py)  |
 |   6. | [ ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/6.%20ZigZag%20Conversion.py)  |
 |   7.    |[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)    | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/7.%20Reverse%20Integer.py)|
-|   8.    |[ String to Integer (atoi)]()    | [Python]()|
-|   9.    |[ Palindrome Number]()    | [Python]()|
+|   8.    |[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)    | [Python]()|
+|   9.    |[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)    | [Python]()|
 
