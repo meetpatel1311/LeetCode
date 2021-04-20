@@ -23,4 +23,5 @@
 |   9.    |[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)    | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/9.%20Palindrome%20Number.py)|
 |  11. | [ Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/11.%20Container%20With%20Most%20Water.py)  |
 |  12. | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/12.%20Integer%20to%20Roman.py)  |
-
+|13.|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)||
+|14.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python]()|
