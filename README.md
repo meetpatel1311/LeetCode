@@ -25,5 +25,5 @@
 |  12. | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/12.%20Integer%20to%20Roman.py)  |
 |13.|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/13.%20Roman%20to%20Integer.py)|
 |14.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/14.%20Longest%20Common%20Prefix.py)|
-|15.|[3Sum](https://leetcode.com/problems/3sum/)|[Python]()|
-|16.|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python]()|
+|15.|[3Sum](https://leetcode.com/problems/3sum/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/15.%203Sum.py)|
+|16.|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/16.%203Sum%20Closest.py)|
