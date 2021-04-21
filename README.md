@@ -27,3 +27,5 @@
 |14.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/14.%20Longest%20Common%20Prefix.py)|
 |15.|[3Sum](https://leetcode.com/problems/3sum/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/15.%203Sum.py)|
 |16.|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/16.%203Sum%20Closest.py)|
+|17.|[]()|[]()|
+|19.|[]()|[]()|
