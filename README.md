@@ -34,4 +34,6 @@
 |24.|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/24_Swap_Nodes_in_Pairs.py)|
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/26_Remove_Duplicates_from_Sorted_Array.py)|
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/27_Remove_Element.py)|
-
+|28.|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/28_Implement_strStr.py)|
+|29.|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/29_Divide_Two_Integers.py)|
+|30.|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/30_Substring_with_Concatenation_of_All_Words.py)|
