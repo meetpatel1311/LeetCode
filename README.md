@@ -37,3 +37,6 @@
 |28.|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/28_Implement_strStr.py)|
 |29.|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/29_Divide_Two_Integers.py)|
 |30.|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/30_Substring_with_Concatenation_of_All_Words.py)|
+|31.|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python]()|
+|32.|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python]()|
+|33.|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python]()|
