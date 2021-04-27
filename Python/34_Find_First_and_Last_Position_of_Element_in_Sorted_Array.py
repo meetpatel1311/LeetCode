@@ -5,10 +5,6 @@ class Solution:
             return [-1,-1]
         ind = nums.index(target)
         l=[]
-        # if(c==1):
-        #     l.append(ind)
-        #     l.append(ind)
-        #     return l
         l.append(ind)
         for i in range(1,c):
             ind+=1
