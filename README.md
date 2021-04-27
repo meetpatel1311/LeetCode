@@ -40,3 +40,6 @@
 |31.|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/31_Next_Permutation.py)|
 |32.|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/32_Longest_Valid_Parentheses.py)|
 |33.|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/33_Search_in_Rotated_Sorted_Array.py)|
+|34.|[Find First and Last Position of Element in Sorted Array]()|[Python]()|
+|36.|[Valid Sudoku]()|[Python]()|
+|38.|[Count and Say]()|[Python]()|
