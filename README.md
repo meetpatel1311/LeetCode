@@ -43,6 +43,6 @@
 |34.|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)|
 |36.|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/36_Valid_Sudoku.py)|
 |38.|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/38_Count_and_Say.py)|
-|39.|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python]()|
-|41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python]()|
-|43.|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Python]()|
+|39.|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/39_Combination_Sum.py)|
+|41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/41_First_Missing_Positive.py)|
+|43.|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/43_Multiply_Strings.py)|
