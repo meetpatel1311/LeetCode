@@ -46,3 +46,6 @@
 |39.|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/39_Combination_Sum.py)|
 |41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/41_First_Missing_Positive.py)|
 |43.|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/43_Multiply_Strings.py)|
+|48.|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/48_Rotate_Image.py)|
+|49.|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/49_Group_Anagrams.py)|
+|50.|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/50_Pow(x%2C%20n).py)|
