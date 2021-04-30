@@ -49,6 +49,6 @@
 |48.|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/48_Rotate_Image.py)|
 |49.|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/49_Group_Anagrams.py)|
 |50.|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/50_Pow(x%2C%20n).py)|
-|51.|[N-Queens](https://leetcode.com/problems/n-queens/)|[Python]()|
-|52.|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Python]()|
-|53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python]()|
+|51.|[N-Queens](https://leetcode.com/problems/n-queens/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/51_N-Queens.py)|
+|52.|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/52_N-Queens_II.py)|
+|53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/53_Maximum_Subarray.py)|
