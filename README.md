@@ -52,3 +52,6 @@
 |51.|[N-Queens](https://leetcode.com/problems/n-queens/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/51_N-Queens.py)|
 |52.|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/52_N-Queens_II.py)|
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/53_Maximum_Subarray.py)|
+|54.|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/54_Spiral_Matrix.py)|
+|56.|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/56_Merge_Intervals.py)|
+|57.|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/57_Insert_Interval.py)|
