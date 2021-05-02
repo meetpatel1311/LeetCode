@@ -55,3 +55,6 @@
 |54.|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/54_Spiral_Matrix.py)|
 |56.|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/56_Merge_Intervals.py)|
 |57.|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/57_Insert_Interval.py)|
+|58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/58_Length_of_Last_Word.py)|
+|59.|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/59_Spiral_Matrix_II.py)|
+|61.|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/61_Rotate_List.py)|
