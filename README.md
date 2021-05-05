@@ -61,3 +61,6 @@
 |62.|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python]()|
 |63.|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python]()|
 |64.|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python]()|
+|66.|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/66_Plus_One.py)|
+|67.|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/67_Add_Binary.py)|
+|68.|[Text Justification](https://leetcode.com/problems/text-justification/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/68_Text_Justification.py)|
