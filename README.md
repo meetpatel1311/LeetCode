@@ -12,17 +12,17 @@
 
 |  Number | Title  | Solution  |
 |---|---|---|
-|   1. |  [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/1.Two%20Sum.py)  |
-|   2. | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/2.%20Add%20Two%20Numbers.py)  |
-|   3. | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)  |
-|   4. | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/4.%20Median%20of%20Two%20Sorted%20Arrays.py)  |
-|   5. | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/5.%20Longest%20Palindromic%20Substring.py)  |
-|   6. | [ ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/6.%20ZigZag%20Conversion.py)  |
-|   7.    |[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)    | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/7.%20Reverse%20Integer.py)|
-|   8.    |[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)    | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/8.%20String%20to%20Integer%20(atoi).py)|
-|   9.    |[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)    | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/9.%20Palindrome%20Number.py)|
-|  11. | [ Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/11.%20Container%20With%20Most%20Water.py)  |
-|  12. | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/12.%20Integer%20to%20Roman.py)  |
+|1. |  [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/1.Two%20Sum.py)  |
+|2. | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/2.%20Add%20Two%20Numbers.py)  |
+|3. | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)  |
+|4. | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/4.%20Median%20of%20Two%20Sorted%20Arrays.py)  |
+|5. | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/5.%20Longest%20Palindromic%20Substring.py)  |
+|6. | [ ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/6.%20ZigZag%20Conversion.py)  |
+|7. |[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)    | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/7.%20Reverse%20Integer.py)|
+|8. |[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)    | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/8.%20String%20to%20Integer%20(atoi).py)|
+|9. |[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)    | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/9.%20Palindrome%20Number.py)|
+|11.| [ Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/11.%20Container%20With%20Most%20Water.py)  |
+|12.| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/12.%20Integer%20to%20Roman.py)  |
 |13.|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/13.%20Roman%20to%20Integer.py)|
 |14.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/14.%20Longest%20Common%20Prefix.py)|
 |15.|[3Sum](https://leetcode.com/problems/3sum/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/15.%203Sum.py)|
@@ -58,9 +58,12 @@
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/58_Length_of_Last_Word.py)|
 |59.|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/59_Spiral_Matrix_II.py)|
 |61.|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/61_Rotate_List.py)|
-|62.|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python]()|
-|63.|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python]()|
-|64.|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python]()|
+|62.|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/62_Unique_Paths.py)|
+|63.|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/63_Unique_Paths_II.py)|
+|64.|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/64_Minimum_Path_Sum.py)|
 |66.|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/66_Plus_One.py)|
 |67.|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/67_Add_Binary.py)|
 |68.|[Text Justification](https://leetcode.com/problems/text-justification/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/68_Text_Justification.py)|
+|69.|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/70_Climbing_Stairs.py)|
+|70.|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/69_Sqrt(x).py)|
+|71.|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/71_Simplify_Path.py)|
