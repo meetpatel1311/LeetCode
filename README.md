@@ -67,3 +67,6 @@
 |69.|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/70_Climbing_Stairs.py)|
 |70.|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/69_Sqrt(x).py)|
 |71.|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/71_Simplify_Path.py)|
+|74.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/74_Search_a_2D_Matrix.py)|
+|75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/75_Sort_Colors.py)|
+|77.|[Combinations](https://leetcode.com/problems/combinations/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/77_Combinations.py)|
