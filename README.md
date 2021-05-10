@@ -70,3 +70,6 @@
 |74.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/74_Search_a_2D_Matrix.py)|
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/75_Sort_Colors.py)|
 |77.|[Combinations](https://leetcode.com/problems/combinations/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/77_Combinations.py)|
+|78.|[Subsets](https://leetcode.com/problems/subsets/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/78_Subsets.py)|
+|81.|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/81_Search_in_Rotated_Sorted_Array_II.py)|
+|83.|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/83_Remove_Duplicates_from_Sorted_List.py)|
