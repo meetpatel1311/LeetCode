@@ -73,3 +73,6 @@
 |78.|[Subsets](https://leetcode.com/problems/subsets/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/78_Subsets.py)|
 |81.|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/81_Search_in_Rotated_Sorted_Array_II.py)|
 |83.|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/83_Remove_Duplicates_from_Sorted_List.py)|
+|88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/88_Merge_Sorted_Array.py)|
+|94.|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/94_Binary_Tree_Inorder_Traversal.py)|
+|100.|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/100_Same_Tree.py)|
