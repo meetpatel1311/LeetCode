@@ -5,7 +5,7 @@
 + python is the programming language that I prefer the most due to its simplicity.
 
 # Reference
-* PYTHON
+* PYTHONhttps://github.com/meetpatel1311/LeetCode/blob/main/Python/103_Binary_Tree_Zigzag_Level_Order_Traversal.py
     * [Time Complexity](https://wiki.python.org/moin/TimeComplexity)
    
 # LeetCode Problems
@@ -76,3 +76,6 @@
 |88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/88_Merge_Sorted_Array.py)|
 |94.|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/94_Binary_Tree_Inorder_Traversal.py)|
 |100.|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/100_Same_Tree.py)|
+|101.|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/101_Symmetric_Tree.py)|
+|102.|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/102_Binary_Tree_Level_Order_Traversal.py)|
+|103.|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/submissions/detail/370034673/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/103_Binary_Tree_Zigzag_Level_Order_Traversal.py)|
