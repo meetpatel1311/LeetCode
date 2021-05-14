@@ -79,3 +79,6 @@
 |101.|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/101_Symmetric_Tree.py)|
 |102.|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/102_Binary_Tree_Level_Order_Traversal.py)|
 |103.|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/submissions/detail/370034673/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/103_Binary_Tree_Zigzag_Level_Order_Traversal.py)|
+|104.|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/104_Maximum_Depth_of_Binary_Tree.py)|
+|112.|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/112_Path_Sum.py)|
+|119.|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/119_Pascal's_Triangle.py)|
