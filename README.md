@@ -82,3 +82,6 @@
 |104.|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/104_Maximum_Depth_of_Binary_Tree.py)|
 |112.|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/112_Path_Sum.py)|
 |119.|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/119_Pascal's_Triangle.py)|
+|121.|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/121_Best_Time_to_Buy_and_SellStock.py)|
+|122.|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/122_Best_Time_to_Buy_and_Sell_Stock_II.py)|
+|125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/meetpatel1311/LeetCode/blob/main/Python/125_Valid_Palindrome.py)|
